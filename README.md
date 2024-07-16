@@ -29,10 +29,10 @@ FileGenerator.java: Guarda el historial de conversiones en un archivo de texto.
 
 Instrucciones de Uso 🚀
 
-Ejecuta la clase Main para iniciar el programa.
-
-Selecciona la moneda base y la moneda objetivo.
-
-Ingresa la cantidad que deseas convertir.
-
-El programa mostrará la cantidad convertida en la moneda seleccionada y guardará la conversión en el historial.
+1. Clona este repositorio en tu máquina local.
+2. Abre el proyecto en IntelliJ IDEA u otro IDE de tu elección.
+3. Ejecuta la clase Main.java para iniciar el programa.
+4.Selecciona la moneda base y la moneda objetivo.
+5.Ingresa la cantidad que deseas convertir.
+6.El programa mostrará la cantidad convertida en la moneda seleccionada y guardará la conversión en el historial.
+7.¡Disfruta convirtiendo monedas!
